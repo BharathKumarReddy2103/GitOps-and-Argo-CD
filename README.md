@@ -85,7 +85,7 @@ GitOps is a modern software development and operations paradigm that uses Git as
 
 ## Contribution
 
-Feel free to fork this repo, improve content, and raise pull requests. Sharing real-world examples, fixes, and improvements are highly appreciated!
+Feel free to fork this repo, improve content, and raise pull requests. Sharing real-world examples, fixes, and improvements are highly appreciated.
 
 ---
 
