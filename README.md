@@ -89,12 +89,6 @@ Feel free to fork this repo, improve content, and raise pull requests. Sharing r
 
 ---
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## Connect with Me
 
 **LinkedIn:** (https://www.linkedin.com/in/bharath-kumar-reddy2103/)  
