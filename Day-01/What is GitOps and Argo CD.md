@@ -6,7 +6,7 @@ As modern DevOps practices continue to evolve, the need for scalable, secure, an
 
 ## What is GitOps?
 
-**GitOps** is a deployment strategy that uses Git repositories as the source of truth for defining and managing infrastructure and application states. In GitOps, changes are made via pull requests, reviewed, version-controlled, and automatically applied to the target Kubernetes environment through a GitOps controller like Argo CD or Flux.
+**GitOps** is a deployment strategy that uses Git repositories as the source of truth for defining and managing infrastructure and application states. In GitOps, changes are made via pull requests, reviewed, version-controlled, and automatically applied to the target Kubernetes environment through a GitOps controller like **Argo CD** or **Flux**.
 
 ### Why GitOps?
 
