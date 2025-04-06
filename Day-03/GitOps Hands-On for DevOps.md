@@ -1,4 +1,4 @@
-# Deep Dive into Argo CD: GitOps Hands-On for DevOps Engineers
+# Deep Dive into Argo CD: GitOps Hands-On for DevOps
 
 ## Introduction
 
