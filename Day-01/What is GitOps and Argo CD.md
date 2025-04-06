@@ -12,7 +12,7 @@ As modern DevOps practices continue to evolve, the need for scalable, secure, an
 
 Before GitOps, managing changes in Kubernetes clusters often lacked traceability. For instance, when a DevOps engineer made a manual update (e.g., modifying node configurations), there was no clear versioning, audit trail, or rollback mechanism. In contrast, Git-based source code management provides excellent tracking, review, and version control features.
 
-GitOps extends these principles to infrastructure and deployment processes:
+**GitOps** extends these principles to infrastructure and deployment processes:
 
 - **Version control for infrastructure**: All Kubernetes manifests are stored and versioned in Git.
 - **Audit trails**: Every change is traceable via commit history and pull requests.
